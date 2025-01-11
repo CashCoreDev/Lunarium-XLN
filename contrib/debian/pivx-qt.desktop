@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=LunariumCoin
+Comment= XLN P2P Cryptocurrency
+Comment[fr]= XLN, monnaie virtuelle cryptographique pair à pair
+Comment[tr]= XLN, eşten eşe kriptografik sanal para birimi
+Exec=lunariumcoin-qt %u
+Terminal=false
+Type=Application
+Icon=pivx128
+MimeType=x-scheme-handler/pivx;
+Categories=Office;Finance;
+StartupWMClass=LunariumCoin-qt
