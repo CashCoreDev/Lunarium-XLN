@@ -373,7 +373,7 @@ bool CMasternode::IsInputAssociatedWithPubkey() const
 
 CAmount CMasternode::GetMasternodeNodeCollateral(int nHeight)
 {
-    if (nHeight >   865600) return 1000000 * COIN;
+    if (nHeight >   621701) return 1000000 * COIN;
     if (nHeight >   340000) return  300000 * COIN;
     if (nHeight >        0) return  250000 * COIN;
     

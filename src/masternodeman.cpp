@@ -19,7 +19,7 @@
 
 #include <boost/thread/thread.hpp> 
 
-#define MN_WINNER_MINIMUM_AGE 600    // Age in seconds. This should be > MASTERNODE_REMOVAL_SECONDS to avoid misconfigured new nodes in the list.
+#define MN_WINNER_MINIMUM_AGE 60    // Age in seconds. This should be > MASTERNODE_REMOVAL_SECONDS to avoid misconfigured new nodes in the list.
 
 /** Masternode manager */
 CMasternodeMan mnodeman;
