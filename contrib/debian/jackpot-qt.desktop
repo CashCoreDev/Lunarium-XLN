@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=LunariumCoin 
+Comment=LunariumCoin P2P Cryptocurrency
+Comment[fr]=LunariumCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=LunariumCoin, eşten eşe kriptografik sanal para birimi
+Exec=lunariumcoin-qt %u
+Terminal=false
+Type=Application
+Icon=pivx128
+MimeType=x-scheme-handler/lunariumcoin;
+Categories=Office;Finance;
+StartupWMClass=lunariumcoin-qt
